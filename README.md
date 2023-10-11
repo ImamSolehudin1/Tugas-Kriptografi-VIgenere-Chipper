@@ -4,7 +4,7 @@
 # Nim : 312110290
 
 
-![gambar]()
-![gambar]()
-![gambar]()
-![gambar]()
+![gambar](pic1.png)
+![gambar](pic2.png)
+![gambar](hasil_login.png)
+![gambar](login_gagal.png)
